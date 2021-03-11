@@ -1,0 +1,1 @@
+document.write("<input type='text' value='' placeholder='Vous avez réussi votre exercice.'>")
